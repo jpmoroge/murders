@@ -1,3 +1,3 @@
 This is a sample README.txt
 
-Just modified...
+Just modified...foo bar
